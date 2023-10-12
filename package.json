@@ -1,0 +1,24 @@
+{
+  "name": "lite-express-gateway",
+  "version": "1.0.0",
+  "description": "A lite gateway written in Nodejs, using Expressjs framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie-gan/lite-express-gateway.git"
+  },
+  "author": "jackiegan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackie-gan/lite-express-gateway/issues"
+  },
+  "homepage": "https://github.com/jackie-gan/lite-express-gateway#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
